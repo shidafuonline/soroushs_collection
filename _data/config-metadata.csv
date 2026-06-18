@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
+title,Fragrance,,,DCTERMS.title,headline
 perfumer,Perfumer,,,DCTERMS.creator,creator
 house,Perfume House,,,DCTERMS.description,description
 popularity,Rating,,,
